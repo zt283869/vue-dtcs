@@ -1,0 +1,10 @@
+.table .list-lm .el-submenu__icon-arrow{
+    /*left:4px;*/
+    /*right: 0px;*/
+    position: absolute;
+    top: 52%;
+    right: 98.8%;
+    margin-top: -7px;
+    transition: transform .3s;
+    font-size: 12px;
+}
